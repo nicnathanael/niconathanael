@@ -76,6 +76,7 @@ body{
     }
 	
 #cv1 {
+	width: 100%;
 	margin-top: 0px;
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -87,6 +88,7 @@ body{
 }
 
 #cv2 {
+	width: 100%;
 	padding-top: 10px;
 	height: 60px;
 	font-size: 35px;
@@ -97,6 +99,7 @@ body{
 	}
 
 #cv3{
+	width: 100%;
 	margin-top: 60px;
 	padding-top: 10px;
 	height: 60px;
