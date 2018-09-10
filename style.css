@@ -40,7 +40,7 @@ body{
     z-index: 1;
 	background: linear-gradient(180deg,#F81B32, #F06226);
     height:400px;
-    width: 1350px;
+    width: 100%;
     }
 
 #name {
@@ -69,6 +69,7 @@ body{
 }
 
 #headercv1{
+	width: 100%;
 	margin-top: 50px;
 	padding-bottom: 50px;
 	background: #7F7F7F;
@@ -140,6 +141,7 @@ td{
 }
 
 .headerkontak{
+	width: 100%;
 	padding-bottom:50px;
 	float: bottom;
 	margin-top: 50px;
@@ -148,6 +150,7 @@ td{
 
 
 #headerporto{
+	width: 100%;
 	padding-bottom:50px;
 	float: bottom;
 	margin-top: 50px;
