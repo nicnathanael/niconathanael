@@ -164,18 +164,38 @@ td{
 
 @media only screen and (min-width: 961px) {
   body {
-    background-color: #red; /* Blue */
-  }
+    #header{
+	    margin-top: 50px;
+	    z-index: 1;
+	    background: linear-gradient(180deg,#F81B32, #F06226);
+	    height:400px;
+	    width: 100%;
+	  }
+	}
 }
 
 @media only screen and (min-width: 401px) and (max-width: 960px) {
   body {
-    background-color: #green; /* Yellow */
+    #header{
+	    margin-top: 50px;
+	    z-index: 1;
+	    background: linear-gradient(180deg,#F81B32, #F06226);
+	    height:400px;
+	    width: 100%;
+	  }
+	
   }
 }
 
 @media only screen and (max-width: 400px) {
   body {
-    background-color: #yellow; /* Red */
+    #header{
+	    margin-top: 50px;
+	    z-index: 1;
+	    background: linear-gradient(180deg,#F81B32, #F06226);
+	    height:400px;
+	    width: 100%;
+	  }
+	
   }
 }
