@@ -181,7 +181,8 @@ td{
 		  background: #7F7F7F;
 	  }
 	  #cv1 {
-		margin-top: 0px;
+		  width: 100%;
+		  margin-top: 0px;
 		padding-top: 10px;
 		padding-bottom: 10px;
 		font-size: 16px;
@@ -196,6 +197,7 @@ td{
 @media only screen and (min-width: 401px) and (max-width: 960px) {
   body {
 	  #header{
+		  width: 100%;
 		  margin-top: 50px;
 		  z-index: 1;
 		  background: linear-gradient(180deg,#F81B32, #F06226);
@@ -209,6 +211,7 @@ td{
 		  background: #7F7F7F;
 	  }
 	  #cv1 {
+		  width: 100%;
 		margin-top: 0px;
 		padding-top: 10px;
 		padding-bottom: 10px;
@@ -237,6 +240,7 @@ td{
 		  background: #7F7F7F;
 	  }
 	  #cv1 {
+		  width: 100%;
 		margin-top: 0px;
 		padding-top: 10px;
 		padding-bottom: 10px;
