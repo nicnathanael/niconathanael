@@ -164,38 +164,54 @@ td{
 
 @media only screen and (min-width: 961px) {
   body {
-    #header{
-	    margin-top: 50px;
-	    z-index: 1;
-	    background: linear-gradient(180deg,#F81B32, #F06226);
-	    height:400px;
-	    width: 100%;
+	  #header{
+		  margin-top: 50px;
+		  z-index: 1;
+		  background: linear-gradient(180deg,#F81B32, #F06226);
+		  height:400px;
+		  width: 100%;
+	  }
+	  #headercv1{
+		  width: 100%;
+		  margin-top: 50px;
+		  padding-bottom: 50px;
+		  background: #7F7F7F;
 	  }
 	}
 }
 
 @media only screen and (min-width: 401px) and (max-width: 960px) {
   body {
-    #header{
-	    margin-top: 50px;
-	    z-index: 1;
-	    background: linear-gradient(180deg,#F81B32, #F06226);
-	    height:400px;
-	    width: 100%;
+	  #header{
+		  margin-top: 50px;
+		  z-index: 1;
+		  background: linear-gradient(180deg,#F81B32, #F06226);
+		  height:400px;
+		  width: 100%;
 	  }
-	
-  }
+	  #headercv1{
+		  width: 100%;
+		  margin-top: 50px;
+		  padding-bottom: 50px;
+		  background: #7F7F7F;
+	  }
+	}
 }
 
 @media only screen and (max-width: 400px) {
   body {
-    #header{
-	    margin-top: 50px;
-	    z-index: 1;
-	    background: linear-gradient(180deg,#F81B32, #F06226);
-	    height:400px;
-	    width: 100%;
+	  #header{
+		  margin-top: 50px;
+		  z-index: 1;
+		  background: linear-gradient(180deg,#F81B32, #F06226);
+		  height:400px;
+		  width: 100%;
 	  }
-	
-  }
+	  #headercv1{
+		  width: 100%;
+		  margin-top: 50px;
+		  padding-bottom: 50px;
+		  background: #7F7F7F;
+	  }
+	}
 }
