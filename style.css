@@ -177,6 +177,16 @@ td{
 		  padding-bottom: 50px;
 		  background: #7F7F7F;
 	  }
+	  #cv1 {
+		margin-top: 0px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		font-size: 16px;
+		font-family: Verdana, sans-serif;
+		color: #ffffff;
+		text-align: left;
+		background: linear-gradient(180deg,#F81B32, #F06226);
+	  }
 	}
 }
 
@@ -195,6 +205,16 @@ td{
 		  padding-bottom: 50px;
 		  background: #7F7F7F;
 	  }
+	  #cv1 {
+		margin-top: 0px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		font-size: 16px;
+		font-family: Verdana, sans-serif;
+		color: #ffffff;
+		text-align: left;
+		background: linear-gradient(180deg,#F81B32, #F06226);
+	  }
 	}
 }
 
@@ -212,6 +232,16 @@ td{
 		  margin-top: 50px;
 		  padding-bottom: 50px;
 		  background: #7F7F7F;
+	  }
+	  #cv1 {
+		margin-top: 0px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		font-size: 16px;
+		font-family: Verdana, sans-serif;
+		color: #ffffff;
+		text-align: left;
+		background: linear-gradient(180deg,#F81B32, #F06226);
 	  }
 	}
 }
