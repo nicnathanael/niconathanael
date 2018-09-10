@@ -161,18 +161,18 @@ td{
 
 @media only screen and (min-width: 961px) {
   body {
-    background-color: #B2D6FF; /* Blue */
+    background-color: #red; /* Blue */
   }
 }
 
 @media only screen and (min-width: 401px) and (max-width: 960px) {
   body {
-    background-color: #F5CF8E; /* Yellow */
+    background-color: #green; /* Yellow */
   }
 }
 
 @media only screen and (max-width: 400px) {
   body {
-    background-color: #F09A9D; /* Red */
+    background-color: #yellow; /* Red */
   }
 }
